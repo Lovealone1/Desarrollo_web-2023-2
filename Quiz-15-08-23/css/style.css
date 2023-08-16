@@ -1,0 +1,39 @@
+body {
+    font-family: Calibri;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    background-color: #000000;
+}
+h1 {
+    color: #ffffff;
+}
+ul {
+    list-style: none;
+    padding: 10px;
+    margin: 20px;
+    text-align: center;
+    color: #ffffff;
+}
+ul li {
+    margin-bottom: 10px;
+}
+p {
+    text-align: center;
+    margin: 20px;
+    color: #ffffff;
+}
+a {
+    display: block;
+    text-align: center;
+    margin: 20px;
+    color: #959595;
+    text-decoration: none;
+}
+
+img {
+    padding: 20px;
+}
